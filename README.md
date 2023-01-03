@@ -1,6 +1,6 @@
 # Practical Test Driven Development for Java Programmers
 
-Code developed during Linkedin Learning course aimed for TDD, with Junit and Mockito. Always aimming the life cicle of a TDD project RED, GREEN, Refactor.
+Code developed during Linkedin Learning course aimed for TDD, with Junit and Mockito. Always aiming the life cicle of a TDD project RED, GREEN, Refactor.
 
 https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/welcome?autoplay=false
 
